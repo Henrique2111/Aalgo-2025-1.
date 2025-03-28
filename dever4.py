@@ -9,3 +9,4 @@ n = int(input("Digite um valor para n: "))
 # Calcula e exibe o resultado
 resultado = F(n)
 print(f"F({n}) = {resultado}")
+4
